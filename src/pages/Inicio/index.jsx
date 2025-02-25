@@ -1,8 +1,8 @@
+import Cabecalho from "componentes/Cabecalho"
+
 function Inicio (){
     return(
-        <h1>
-            Olá Mundo!
-        </h1>
+        <Cabecalho />
     )
 }
 

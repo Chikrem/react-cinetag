@@ -8,7 +8,7 @@
 body {
   margin: 0;
   font-family: var(--fonte);
-  background-color: var(--branco);
+  background-color: var(--cinza);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
